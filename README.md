@@ -51,7 +51,7 @@ This interactive Tableau dashboard visualizes pricing and popularity trends acro
 - Average price by brand
 - Filters by brand, product type, and time for dynamic exploration
 
-![Dashboard Screenshot](../tableau/exports/dashboard_screenshot.png)
+![Dashboard Screenshot](/Users/marcusjackson/Desktop/DS/luxury-fashion-pricing-analysis/tableau/exports/dashboard_screenshot.png)
 
 > **File**: `tableau/luxury_fashion_dashboard.twb`  
 ---
